@@ -1,3 +1,4 @@
+//digitar nota de 0 a 10 com if e else em for
 #include <stdio.h>
 int main (){
     int nota;
