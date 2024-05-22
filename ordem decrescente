@@ -1,0 +1,12 @@
+// ordem decrescente de 4 em 4 
+#include <stdio.h>
+int main (){
+    int número;
+    
+    for(número = 20; número >= 0; número -=4)
+    
+    printf("\n %d", número);
+    
+return 0;
+
+}
